@@ -3,3 +3,4 @@
 Team Members
 - Matthew Long - MidLogRun
 - William (Trey) Verhelle - The-Blue-Goose
+- Chris Delisle - chrisdelisle
